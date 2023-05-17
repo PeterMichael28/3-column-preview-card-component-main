@@ -92,7 +92,7 @@ button{
     color: hsl(179, 100%, 13%);
 }
 
-@media (width <= 420px) {
+@media (width <= 570px) {
     body{
         height: auto;
         padding: 40px 19px;
